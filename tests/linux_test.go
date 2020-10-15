@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"testing"
 
-	machineid "github.com/codemodify/systemkit-platform-machineid"
+	machineid "github.com/remoteit/systemkit-platform-machineid"
 )
 
 func Test_Linux(t *testing.T) {

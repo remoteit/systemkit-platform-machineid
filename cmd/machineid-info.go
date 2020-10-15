@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	machineid "github.com/codemodify/systemkit-platform-machineid"
+	machineid "github.com/remoteit/systemkit-platform-machineid"
 )
 
 func main() {

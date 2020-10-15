@@ -1,5 +1,5 @@
-module github.com/codemodify/systemkit-platform-machineid
+module github.com/remoteit/systemkit-platform-machineid
 
 go 1.13
 
-require golang.org/x/sys v0.0.0-20200331124033-c3d80250170d
+require golang.org/x/sys v0.0.0-20201015000850-e3ed0017c211
